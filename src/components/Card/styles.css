@@ -1,0 +1,64 @@
+.tarjeta{
+    width: 95%;
+    margin: 35px auto;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.tarjeta .baseimg{
+    width: 100%;
+}
+
+.tarjeta .frontimg{
+    width: 50%;
+    position: absolute;
+    top: -25px;
+    right: 20px;
+}
+
+.tabla{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px 10px;
+    color: #58506B;
+}
+
+.tabla .inversion{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.tabla .inversion h1{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.tabla .inversion h2{
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.tabla .rendimiento{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.tabla .rendimiento h1{
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.tabla .rendimiento h2{
+    font-weight: 600;
+    font-size: 14px;
+}

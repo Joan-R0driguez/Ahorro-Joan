@@ -1,0 +1,71 @@
+.head{
+    width: 90%;
+    margin: 40px auto;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.head h1{
+    font-size: 18px;
+    color: #58506B;
+}
+
+.head img{
+    width: 30px;
+}
+
+.dualcards{
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.dualcards .card{
+    width: 48%;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.dualcards .meta{
+    padding: 20px;
+    height: 40%;
+}
+
+.dualcards .meta img{
+    margin-bottom: 10px;
+}
+
+.dualcards .meta h1{
+    font-size: 16px;
+    font-weight: 600;
+    color: #817699;
+}
+
+.dualcards .porcentaje{
+    padding: 20px;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dualcards .porcentaje img{
+    width: 45%;
+    max-width: 90px;
+    margin-right: 5px;
+}
+
+.dualcards .porcentaje h3{
+    font-size: 12px;
+    font-weight: 600;
+    color: #54D1ED;
+}
+
+.dualcards .porcentaje h4{
+    font-size: 10px;
+    font-weight: 400;
+}

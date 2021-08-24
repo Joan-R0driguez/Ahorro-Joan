@@ -1,0 +1,34 @@
+.portafolioh{
+    width: 90%;
+    margin: 40px auto;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.portafolioh h1{
+    font-size: 18px;
+    color: #58506B;
+    width: 75%;
+}
+
+.portafolioh img{
+    width: 80px;
+}
+
+.portafoliob {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+.content{
+    display: flex;
+}
+
+.content .logo{
+    display: flex;
+}
