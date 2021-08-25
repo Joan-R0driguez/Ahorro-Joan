@@ -8,7 +8,7 @@ import './styles.css'
 
 function Metas() {
     return (
-        <>
+        <section className="Metas">
             <section className="head">
                 <h1>Tus metas</h1>
                 <img src={more} alt="" />
@@ -43,7 +43,7 @@ function Metas() {
                     </div>
                 </div>
             </section>
-        </>
+        </section>
     )
 }
 

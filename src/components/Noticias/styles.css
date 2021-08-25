@@ -1,0 +1,31 @@
+.noticias{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 150px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.individual-not{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.individual-not .texto-noticia{
+    margin-right: 20px;
+}
+
+.individual-not h2{
+    font-size: 14px;
+    font-weight: 400;
+    color: #817699;
+}
+
+.individual-not p{
+    font-size: 10px;
+    font-weight: 400;
+    color: #58506B;
+}

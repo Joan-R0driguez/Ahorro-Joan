@@ -1,0 +1,67 @@
+.ahorro-head{
+    width: 90%;
+    margin: 40px auto;
+    margin-bottom: 20px;
+}
+
+.ahorro-head h1{
+    font-size: 18px;
+    color: #58506B;
+}
+
+.ahorro-body{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.ahorro-body .video{
+    width: 100%;
+    height: 310px;
+    position: relative;
+}
+
+.ahorro-body .miniatura{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.ahorro-body .play{
+    width: 12%;
+    position: absolute;
+    left: 45%;
+    top: 25%;
+}
+
+.ahorro-body .azul{
+    width: 100%;
+    border-radius: 20px;
+    position: relative;
+    bottom: 60px;
+}
+
+.azul-titulo{
+    font-size: 24px;
+    color: white;
+    position: absolute;
+    top: 65%;
+    left: 20px;
+}
+
+.azul-parrafo{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    top: 78%;
+    left: 20px;
+}
+
+.puntos{
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.puntos img{
+    margin: 5px;
+}
